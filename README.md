@@ -24,8 +24,8 @@ No account, no ads, no tracking. In English, Arabic and French.
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.jpg">
-  <img src="assets/hero-light.jpg" alt="Qurany on a Mac and an iPhone, showing the prayer times page" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.jpg">
+  <img src="assets/banner-light.jpg" alt="Qurany on a Mac and an iPhone, showing the prayer times page" width="100%">
 </picture>
 
 </div>
