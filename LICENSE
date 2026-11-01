@@ -1,0 +1,29 @@
+Qurany End User Licence
+
+Copyright (c) 2026 Zawalid. All rights reserved.
+
+This licence covers the Qurany application ("the app") that you download from this repository. It is not an open
+source licence. The source code is private and is not licensed to you.
+
+1. Free use. You may download, install and use the app on your own devices for your own personal use, at no charge.
+   This applies to the version you downloaded. Later versions may come with different terms, which will be published
+   with them.
+
+2. What you may not do. You may not sell, rent or lease the app. You may not redistribute the app, or host or
+   re-publish it elsewhere, without the owner's written permission. You may share the link to this repository.
+   You may not extract the Quran text, translations, tafsir, recitations, photographs, databases or other data from
+   the app in order to copy, resell or republish them. You may not decompile or modify the app, except where the law
+   gives you that right regardless of this licence.
+
+3. The Quran text. The Arabic text is shown unmodified. Do not alter it when you share it.
+
+4. Third-party material. The app contains and uses material from others, which stays under its own terms and is
+   listed in THIRD_PARTY_NOTICES.md. Nothing here gives you more rights to that material than its own owner gives.
+
+5. No warranty. The app is provided "as is", without warranty of any kind. It is a reading and study aid, not a
+   substitute for a teacher or scholar, and not a source of religious rulings. The owner is not liable for any damage
+   that comes from using it, to the extent the law allows.
+
+6. Ending. This licence ends if you break it. You can end it any time by deleting the app.
+
+Questions: open an issue on this repository.
